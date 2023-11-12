@@ -4,15 +4,9 @@
   "description": "rest-api ",
   "main": "index.js",
   "scripts": {
-<<<<<<< HEAD
-    "test":"echo \"Error: no test specified\" && exit 1",
-    "start":"node index.js",
-    "dev":"nodemon index.js"
-=======
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js"
->>>>>>> e9440281a4ce31ce768b479d4444d140fd23187d
   },
   "author": "Luciano",
   "license": "ISC",
